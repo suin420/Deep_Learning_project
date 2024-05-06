@@ -5,7 +5,7 @@
 
 ![image](https://github.com/wwinin/deep.cv.project/assets/103291492/bdc39b03-15e1-4dec-9a52-1d181a9b9697)
 
-#### 01. txt 변환
+#### 01. txt conversion
 - txt_main.py
   - hub_data의 label(.xml)을 txt로 변경하여 final_data에 저장
   - hub_data의 image(.jpg)를 final_data로 복사
