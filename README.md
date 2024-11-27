@@ -1,9 +1,16 @@
-# deep.cv.project
+# 🧃 시각장애인을 위한 음료 객체 인식 및 점자 변환
+<br><br>
+## 프로젝트 배경 및 목적
 
+## 주최/주관 및 팀원
 
-## 코드 구현 튜토리얼
+## 프로젝트 기간
 
-![image](https://github.com/wwinin/deep.cv.project/assets/103291492/bdc39b03-15e1-4dec-9a52-1d181a9b9697)
+## 프로젝트 소개
+
+## 프로세스
+### code tutorial
+<img src="https://github.com/user-attachments/assets/d7d60abe-2f4c-426f-bec0-4050e7b29918" width="600" />
 
 #### 01. txt conversion
 - txt_main.py
@@ -42,3 +49,7 @@
 - yolo/yolov5/model_train.ipnyb
   - yolo 모델 학습 및 test 이미지로 테스트 후 test에서 예측한 클래스 이름 추출
   - 추출한 클래스 이름을 점자로 변환
+
+## 역할
+
+## 배우고 느낀 점
